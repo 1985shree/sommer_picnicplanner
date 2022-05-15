@@ -17,7 +17,7 @@ make run_sommer_picnicplanner
 ```
 You'll get your terminal running and a message like 'Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)....'
 
-Copy and paste the url on your browser, append with /docs (open http://127.0.0.1:8000/docs) and voila you've the interface to perform your query!
+Copy and paste the url on your browser, append with /docs (e.g. open http://127.0.0.1:8000/docs) and voila you've the interface to perform your query!
 
 
 # Startup the project
