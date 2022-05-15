@@ -1,6 +1,6 @@
 # Picnic planner
 
-This is a picnic planner app for any location in Germany. This opens an API which takes in a range of dates (from and to) in the ISO-8601 format (e.g. 2022-05-01) and 4 preferred location for picnic in human-readable string format (e.g. Mauerpark, Berlin). It calls open source weather API https://brightsky.dev/ to extract weather conditions on the preferred dates and returns dates and locations which are optimal for a picnic!
+This is a picnic planner app for any location in Germany. This opens an API which takes in a range of dates (from and to) in the ISO-8601 format (e.g. 2022-05-01) and 4 preferred locations for picnic in human-readable string format (e.g. Mauerpark, Berlin). It calls open source weather API https://brightsky.dev/ to extract weather conditions on the preferred dates and returns dates and locations which are optimal for a picnic!
 
 Happy picnic planning!
 
