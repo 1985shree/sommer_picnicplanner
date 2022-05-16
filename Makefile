@@ -53,3 +53,6 @@ pypi_test:
 
 pypi:
 	@twine upload dist/* -u $(PYPI_USERNAME)
+
+run_sommer_picnicplanner:
+	uvicorn sommer_picnicplanner.picnic:app --reload  # load web server with code autoreload
