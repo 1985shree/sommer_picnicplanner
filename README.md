@@ -9,7 +9,7 @@ This is a picnic planner app for any location in Germany. This opens an API whic
 
 Make sure you have python 3 (3.8 preferred) nstalled in your device. install the package with the command:
 ```
-pip install sommer_picnicplanner
+pip install git+ssh://git@github.com/1985shree/sommer_picnicplanner
 ```
 then run with:
 
